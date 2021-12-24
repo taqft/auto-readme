@@ -160,7 +160,7 @@ Simple testing instructions:
 [issues-shield]: https://img.shields.io/github/issues/${data.github}/${data.title}.svg?style=for-the-badge
 [issues-url]: https://github.com/${data.github}/${data.title}/issues
 [license-shield]: https://img.shields.io/github/license/${data.github}/${data.title}.svg?style=for-the-badge
-[license-url]: https://github.com/${data.github}/${data.title}/blob/master/LICENSE.txt
+[license-url]: https://github.com/${data.github}/${data.title}/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
