@@ -157,7 +157,7 @@ Simple testing instructions:
 [issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/auto-readme.svg?style=for-the-badge
 [issues-url]: https://github.com/theresaqueryforthat/auto-readme/issues
 [license-shield]: https://img.shields.io/github/license/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[license-url]: https://github.com/theresaqueryforthat/auto-readme/blob/master/LICENSE.txt
+[license-url]: https://github.com/theresaqueryforthat/auto-readme/blob/117f6ba703384fc58ee0c1f03c08cf64dfe1e77d/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
