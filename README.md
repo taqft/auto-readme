@@ -138,6 +138,8 @@ Simple testing instructions:
 <!-- PROJECT EXAMPLE -->
 ## Demo
 
+* Walkthrough video: [LINK](https://puu.sh/Iyd3G/a958bc0764.mp4 "Walkthrough Video")
+
 [![Product Name Screen Shot][product-screenshot]](#)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
