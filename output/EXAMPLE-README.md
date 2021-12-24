@@ -33,9 +33,9 @@
 <h3 align="center">auto-readme</h3>
 
   <p align="center">
-    A cool little app to save time when creating Project README's!
+    A cool little app
     <br />
-    <a href="#demo">View Demo</a>
+    <a href="https://theresaqueryforthat.github.io/auto-readme/">View Demo</a>
     ·
     <a href="https://github.com/theresaqueryforthat/auto-readme/issues">Report Bug</a>
     ·
@@ -55,21 +55,24 @@
 * [Questions](#questions)
 * [Demo](#demo)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- DESCRIPTION -->
 ## Description
 
-* Built with NodeJS, this simple app allows you to generate a README.md file based on your project's details and specifications. We worked on this to save time when spinning up new projects, and to serve as a base for future improvements and features to make our lives easier.
-
-* This README file was generated with the app! See the /output folder for another example README.
+* A cool little app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- INSTALLATION -->
 ## Installation
 
-1. Clone the repo with your preferred method
+* git clone & npm install
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- USAGE -->
+## Usage
+
+1. Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
@@ -77,13 +80,7 @@ git clone https://github.com/your_username_/Project-Name.git
 ```sh
 npm install
 ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE -->
-## Usage
-
-1. Run index.js via Node
+3. Run index.js via Node
 ```sh
 node ./index.js
 ```
@@ -102,7 +99,7 @@ node ./index.js
 
 Any contributions you make are greatly appreciated.
 
-Guidelines: Fork this repo, and submit a PR with detailed notes!
+Guidelines: Submit a new PR with your forked repo!
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request.
 You can also simply open an issue with the tag "enhancement".
@@ -116,12 +113,12 @@ Don't forget to give the project a star if you liked it!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- TESTS -->
-## Tests
+<!-- TESTING -->
+## Testing
 
 Simple testing instructions:
 
-* Go ahead, try and break it... 🙄
+* Run our test code and report the results!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +135,7 @@ Simple testing instructions:
 <!-- PROJECT EXAMPLE -->
 ## Demo
 
-[![Product Name Screen Shot][product-screenshot]](#)
+[![Product Name Screen Shot][product-screenshot]](https://theresaqueryforthat.github.io/auto-readme/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
