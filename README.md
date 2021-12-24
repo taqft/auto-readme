@@ -156,7 +156,7 @@ Simple testing instructions:
 [stars-url]: https://github.com/theresaqueryforthat/auto-readme/stargazers
 [issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/auto-readme.svg?style=for-the-badge
 [issues-url]: https://github.com/theresaqueryforthat/auto-readme/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/auto-readme.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/auto-readme.svg?style=for-the-badge&cacheSeconds=3600
 [license-url]: https://github.com/theresaqueryforthat/auto-readme/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
