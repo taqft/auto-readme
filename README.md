@@ -51,7 +51,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Testing](#testing)
+* [Tests](#tests)
 * [Questions](#questions)
 * [Demo](#demo)
 
