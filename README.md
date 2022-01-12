@@ -10,7 +10,6 @@
 *** NOTE: This template assumes there is a short project demo named "demo.gif" and a "logo.png"
 *** saved in the ./assets/images/ folder within your repositiory. Adjust these as needed.
 -->
--->
 
 <!-- PROJECT SHIELDS -->
 <!--
