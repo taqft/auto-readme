@@ -5,8 +5,11 @@
 *** from that version, and contains similar structure, with some improvements
 *** to allow for easy automation of the README generation process.
 *** Check it out: https://github.com/othneildrew/Best-README-Template/
+*** For more information about this README template version
+*** see the following repo: https://github.com/theresaqueryforthat/auto-readme
 *** NOTE: This template assumes there is a short project demo named "demo.gif" and a "logo.png"
 *** saved in the ./assets/images/ folder within your repositiory. Adjust these as needed.
+-->
 -->
 
 <!-- PROJECT SHIELDS -->
