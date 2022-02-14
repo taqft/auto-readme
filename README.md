@@ -35,7 +35,7 @@
 <h3 align="center">auto-readme</h3>
 
   <p align="center">
-    A cool little app to save time when creating Project README's!
+    A simple app to save time when creating Project README's!
     <br />
     <a href="#demo">View Demo</a>
     ·
