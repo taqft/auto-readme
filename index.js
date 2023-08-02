@@ -52,7 +52,7 @@ node ./index.js
         message: 'Please enter some general contribution guidelines: ',
         name: 'contributing',
         default () {
-            return 'Fork this repo, and submit a PR with detailed notes!';
+            return 'Fork this repo, and submit a PR with notes!';
         }
     },
     {
