@@ -6,7 +6,7 @@
 *** to allow for easy automation of the README generation process.
 *** Check it out: https://github.com/othneildrew/Best-README-Template/
 *** For more information about this README template version
-*** see the following repo: https://github.com/theresaqueryforthat/auto-readme
+*** see the following repo: https://github.com/taqft/auto-readme
 *** NOTE: This template assumes there is a short project demo named "demo.gif" and a "logo.png"
 *** saved in the ./assets/images/ folder within your repositiory. Adjust these as needed.
 -->
@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/auto-readme">
+  <a href="https://github.com/taqft/auto-readme">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,9 +39,9 @@
     <br />
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/auto-readme/issues">Report Bug</a>
+    <a href="https://github.com/taqft/auto-readme/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/auto-readme/issues">Request Feature</a>
+    <a href="https://github.com/taqft/auto-readme/issues">Request Feature</a>
   </p>
 </div>
 
@@ -132,7 +132,7 @@ Simple testing instructions:
 
 * Have questions?
 * Reach out to me: 
-* https://github.com/theresaqueryforthat/
+* https://github.com/taqft/
 * [ben.koenig@live.com](mailto:ben.koenig@live.com "My contact Email")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -150,16 +150,16 @@ Simple testing instructions:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/auto-readme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[forks-url]: https://github.com/theresaqueryforthat/auto-readme/network/members
-[stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[stars-url]: https://github.com/theresaqueryforthat/auto-readme/stargazers
-[issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[issues-url]: https://github.com/theresaqueryforthat/auto-readme/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/auto-readme.svg?style=for-the-badge&cacheSeconds=3600
-[license-url]: https://github.com/theresaqueryforthat/auto-readme/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/taqft/auto-readme.svg?style=for-the-badge
+[contributors-url]: https://github.com/taqft/auto-readme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taqft/auto-readme.svg?style=for-the-badge
+[forks-url]: https://github.com/taqft/auto-readme/network/members
+[stars-shield]: https://img.shields.io/github/stars/taqft/auto-readme.svg?style=for-the-badge
+[stars-url]: https://github.com/taqft/auto-readme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taqft/auto-readme.svg?style=for-the-badge
+[issues-url]: https://github.com/taqft/auto-readme/issues
+[license-shield]: https://img.shields.io/github/license/taqft/auto-readme.svg?style=for-the-badge&cacheSeconds=3600
+[license-url]: https://github.com/taqft/auto-readme/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
