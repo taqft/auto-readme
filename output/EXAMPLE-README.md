@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/auto-readme">
+  <a href="https://github.com/taqft/auto-readme">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,11 +35,11 @@
   <p align="center">
     A cool little app
     <br />
-    <a href="https://theresaqueryforthat.github.io/auto-readme/">View Demo</a>
+    <a href="https://taqft.github.io/auto-readme/">View Demo</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/auto-readme/issues">Report Bug</a>
+    <a href="https://github.com/taqft/auto-readme/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/auto-readme/issues">Request Feature</a>
+    <a href="https://github.com/taqft/auto-readme/issues">Request Feature</a>
   </p>
 </div>
 
@@ -127,7 +127,7 @@ Simple testing instructions:
 
 * Have questions?
 * Reach out to me: 
-* https://github.com/theresaqueryforthat/
+* https://github.com/taqft/
 * [ben.koenig@live.com](mailto:ben.koenig@live.com "My contact Email")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -135,7 +135,7 @@ Simple testing instructions:
 <!-- PROJECT EXAMPLE -->
 ## Demo
 
-[![Product Name Screen Shot][product-screenshot]](https://theresaqueryforthat.github.io/auto-readme/)
+[![Product Name Screen Shot][product-screenshot]](https://taqft.github.io/auto-readme/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,16 +143,16 @@ Simple testing instructions:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/auto-readme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[forks-url]: https://github.com/theresaqueryforthat/auto-readme/network/members
-[stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[stars-url]: https://github.com/theresaqueryforthat/auto-readme/stargazers
-[issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[issues-url]: https://github.com/theresaqueryforthat/auto-readme/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/auto-readme.svg?style=for-the-badge
-[license-url]: https://github.com/theresaqueryforthat/auto-readme/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taqft/auto-readme.svg?style=for-the-badge
+[contributors-url]: https://github.com/taqft/auto-readme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taqft/auto-readme.svg?style=for-the-badge
+[forks-url]: https://github.com/taqft/auto-readme/network/members
+[stars-shield]: https://img.shields.io/github/stars/taqft/auto-readme.svg?style=for-the-badge
+[stars-url]: https://github.com/taqft/auto-readme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taqft/auto-readme.svg?style=for-the-badge
+[issues-url]: https://github.com/taqft/auto-readme/issues
+[license-shield]: https://img.shields.io/github/license/taqft/auto-readme.svg?style=for-the-badge
+[license-url]: https://github.com/taqft/auto-readme/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
