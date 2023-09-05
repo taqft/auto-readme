@@ -77,7 +77,7 @@ node ./index.js
         message: 'Please enter your GitHub handle : ',
         name: 'github',
         default () {
-            return 'theresaqueryforthat';
+            return 'taqft';
         }
     },
     {
