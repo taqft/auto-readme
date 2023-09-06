@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theresaqueryforthat/auto-readme.git"
+    "url": "git+https://github.com/taqft/auto-readme.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/theresaqueryforthat/auto-readme/issues"
+    "url": "https://github.com/taqft/auto-readme/issues"
   },
-  "homepage": "https://github.com/theresaqueryforthat/auto-readme#readme",
+  "homepage": "https://github.com/taqft/auto-readme#readme",
   "description": ""
 }
