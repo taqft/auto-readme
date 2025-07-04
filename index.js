@@ -18,7 +18,7 @@ const questions = [{
         message: 'Please enter a short description: ',
         name: 'description',
         default () {
-            return 'A cool little lap';
+            return 'A cool little app';
         }
     },
     {
